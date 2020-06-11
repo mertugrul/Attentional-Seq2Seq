@@ -2,7 +2,7 @@ SEED = 1234
 import random
 import numpy as np
 import utils
-from Dataset import Dataset
+from dataset import Dataset
 from io import open
 import unicodedata
 import string
